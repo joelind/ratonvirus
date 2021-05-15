@@ -27,7 +27,7 @@ Gem::Specification.new do |spec|
 
   # The activesupport dependency is used for the string manipulations done in
   # the Ratonvirus main module through ActiveSupport::Inflector.
-  spec.add_dependency "activesupport", "~> 6.1"
+  # spec.add_dependency "activesupport", "~> 6.1"
 
   # Basic development dependencies.
   spec.add_development_dependency "rake", "~> 13.0"
